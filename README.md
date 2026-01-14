@@ -1,0 +1,2 @@
+# Position-Coding-Constraints-for-GRU-2DCNN-Fusion-Network
+Code implementation for the paper "An Elastic Parametric Seismic Inversion Method with Position Coding Constraints for GRU-2DCNN Fusion Network". This repository contains GRU-2DCNN forward and inverse model modules with position coding constraints, along with model data for reproducing the elastic parameter inversion results presented in the paper.
