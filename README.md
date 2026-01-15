@@ -19,5 +19,5 @@ Data Availability
 Code Availability Statement
 •	All code used in this study is open source and has been publicly released in this repository.
 •	Reproduction of the experimental results does not require any proprietary software.
-License
-•	This project is released under the MIT License (or Apache-2.0 / GPL-3.0, as needed).
+
+
